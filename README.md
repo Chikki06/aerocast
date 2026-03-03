@@ -12,7 +12,7 @@
 
 ## Training Loss Curves
 
-![Training Loss Curves](public/training_loss.png)
+![Training Loss Curves](public/training_loss_curves.png)
 
 ## Predictions — Seattle
 
