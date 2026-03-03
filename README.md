@@ -1,14 +1,14 @@
 ## Landing Page
 
-![Landing Page](public/landing.png)
+![Landing Page](public/Landing.png)
 
 ## Dashboard
 
-![Dashboard](public/dash1.png)
+![Dashboard](public/Dash1.png)
 
 ## Ai Assistant
 
-![Ai Assistant](public/dash2.png)
+![Ai Assistant](public/Dash2.png)
 
 ## Training Loss Curves
 
