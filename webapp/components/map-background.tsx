@@ -192,7 +192,8 @@ const MapBackground = ({ latitude, longitude, zoom }: MapBackgroundProps) => {
       }}
     >
       <TileLayer
-        url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png"
+        // Proxy tiles through a server-side API so the provider key stays secret
+        url="/api/stadiamaps/{z}/{x}/{y}{r}.png"
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         keepBuffer={4}
         updateWhenIdle={true}
