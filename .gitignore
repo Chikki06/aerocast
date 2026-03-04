@@ -1,10 +1,6 @@
  # macOS files
 .DS_Store
 
- # Ignore json and lockfiles
-*.json
-*.lock
-
  # Ignore all PNGs by default but allow specific images in `public/`
 *.png
 !public/landing.png
