@@ -1,3 +1,10 @@
+## Project Page
+https://www.spaceappschallenge.org/2025/find-a-team/champaigons/?tab=project
+
+## Live site with limited functionality
+https://aerocast.akshatshahi.com/
+
+
 ## Landing Page
 
 ![Landing Page](public/Landing.png)
